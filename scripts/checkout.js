@@ -15,6 +15,7 @@ cart.forEach((cartItem) => {
         }
     });
 
+
     cartSummaryHTML +=
 
   `<div class="cart-item-container 
